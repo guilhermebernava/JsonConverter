@@ -1,10 +1,10 @@
 ﻿using System.Text.Json;
-using Test.Entiteis;
-using Test.Services;
+using JsonConverter.Entiteis;
+using JsonConverter.Services;
 
-namespace Tests.Services
+namespace JsonConverters.Services
 {
-    public class JsonServicesTest
+    public class JsonServicesJsonConverter
     {
         [Fact]
         public void ShouldConvertJsonToFileEntity()

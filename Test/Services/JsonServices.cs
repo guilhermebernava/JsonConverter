@@ -1,7 +1,7 @@
 ﻿using System.Text.Json;
-using Test.Entiteis;
+using JsonConverter.Entiteis;
 
-namespace Test.Services
+namespace JsonConverter.Services
 {
     public static class JsonServices
     {

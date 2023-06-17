@@ -1,4 +1,4 @@
-﻿namespace Test.Entiteis
+﻿namespace JsonConverter.Entiteis
 {
     public class Channel
     {

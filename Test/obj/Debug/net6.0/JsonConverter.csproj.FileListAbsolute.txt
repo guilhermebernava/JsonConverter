@@ -1,0 +1,15 @@
+C:\Users\guilh\Documents\Projects\Test\Test\bin\Debug\net6.0\JsonConverter.exe
+C:\Users\guilh\Documents\Projects\Test\Test\bin\Debug\net6.0\JsonConverter.deps.json
+C:\Users\guilh\Documents\Projects\Test\Test\bin\Debug\net6.0\JsonConverter.runtimeconfig.json
+C:\Users\guilh\Documents\Projects\Test\Test\bin\Debug\net6.0\JsonConverter.dll
+C:\Users\guilh\Documents\Projects\Test\Test\bin\Debug\net6.0\JsonConverter.pdb
+C:\Users\guilh\Documents\Projects\Test\Test\obj\Debug\net6.0\JsonConverter.csproj.AssemblyReference.cache
+C:\Users\guilh\Documents\Projects\Test\Test\obj\Debug\net6.0\JsonConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Documents\Projects\Test\Test\obj\Debug\net6.0\JsonConverter.AssemblyInfoInputs.cache
+C:\Users\guilh\Documents\Projects\Test\Test\obj\Debug\net6.0\JsonConverter.AssemblyInfo.cs
+C:\Users\guilh\Documents\Projects\Test\Test\obj\Debug\net6.0\JsonConverter.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Documents\Projects\Test\Test\obj\Debug\net6.0\JsonConverter.dll
+C:\Users\guilh\Documents\Projects\Test\Test\obj\Debug\net6.0\refint\JsonConverter.dll
+C:\Users\guilh\Documents\Projects\Test\Test\obj\Debug\net6.0\JsonConverter.pdb
+C:\Users\guilh\Documents\Projects\Test\Test\obj\Debug\net6.0\JsonConverter.genruntimeconfig.cache
+C:\Users\guilh\Documents\Projects\Test\Test\obj\Debug\net6.0\ref\JsonConverter.dll

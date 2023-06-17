@@ -1,6 +1,6 @@
-﻿using Test.Exceptions;
+﻿using JsonConverter.Exceptions;
 
-namespace Test.Services
+namespace JsonConverter.Services
 {
     public static class ExtractServices
     {

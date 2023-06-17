@@ -1,8 +1,8 @@
-﻿using Test.Services;
+﻿using JsonConverter.Services;
 
-namespace Tests.Services
+namespace JsonConverters.Services
 {
-    public class ExtractServicesTest
+    public class ExtractServicesJsonConverter
     {
         [Fact]
         public void ShouldExtractName()

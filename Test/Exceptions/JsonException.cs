@@ -1,4 +1,4 @@
-﻿namespace Test.Exceptions
+﻿namespace JsonConverter.Exceptions
 {
     public class JsonException : Exception
     {
