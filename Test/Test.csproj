@@ -1,0 +1,42 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Files\5511947282298\**" />
+    <Compile Remove="Files\5511948351211\**" />
+    <Compile Remove="Files\5511958001986\**" />
+    <Compile Remove="Files\5511982942188\**" />
+    <Compile Remove="JSONs\5511947282298\**" />
+    <Compile Remove="JSONs\5511948351211\**" />
+    <Compile Remove="JSONs\5511958001986\**" />
+    <Compile Remove="JSONs\5511982942188\**" />
+    <EmbeddedResource Remove="Files\5511947282298\**" />
+    <EmbeddedResource Remove="Files\5511948351211\**" />
+    <EmbeddedResource Remove="Files\5511958001986\**" />
+    <EmbeddedResource Remove="Files\5511982942188\**" />
+    <EmbeddedResource Remove="JSONs\5511947282298\**" />
+    <EmbeddedResource Remove="JSONs\5511948351211\**" />
+    <EmbeddedResource Remove="JSONs\5511958001986\**" />
+    <EmbeddedResource Remove="JSONs\5511982942188\**" />
+    <None Remove="Files\5511947282298\**" />
+    <None Remove="Files\5511948351211\**" />
+    <None Remove="Files\5511958001986\**" />
+    <None Remove="Files\5511982942188\**" />
+    <None Remove="JSONs\5511947282298\**" />
+    <None Remove="JSONs\5511948351211\**" />
+    <None Remove="JSONs\5511958001986\**" />
+    <None Remove="JSONs\5511982942188\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Files\" />
+    <Folder Include="Zips\" />
+  </ItemGroup>
+
+</Project>
