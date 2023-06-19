@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ou9/2q1AVFsj6Te5w7tN2UmX5JFotq3yKYY11NFRnH8qedBHSNJrHB93DSUGh/xg06V75FTdthppvqC9asAu5w==",
+  "dgSpecHash": "LwqQKFHhSJLKknlIEagbdQdZH+9sofCymIfekwGie+ypR5aP+eyEpfP8wS9hcLbwQrrVX6mW0ETCxDD3DeK/UA==",
   "success": false,
-  "projectFilePath": "C:\\Users\\guilh\\Documents\\Projects\\Test\\Tests\\Tests.csproj",
+  "projectFilePath": "C:\\Users\\guilh\\OneDrive\\Documentos\\Projects\\JsonConverter\\Tests\\Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\guilh\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\guilh\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
@@ -100,8 +100,8 @@
     {
       "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\guilh\\Documents\\Projects\\Test\\JsonConverter\\JsonConverter.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\guilh\\Documents\\Projects\\Test\\JsonConverter\\JsonConverter.csproj",
+      "message": "Unable to find project 'C:\\Users\\guilh\\OneDrive\\Documentos\\Projects\\JsonConverter\\JsonConverter\\JsonConverter.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\guilh\\OneDrive\\Documentos\\Projects\\JsonConverter\\JsonConverter\\JsonConverter.csproj",
       "targetGraphs": [
         "net6.0"
       ]

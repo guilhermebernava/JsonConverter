@@ -8,6 +8,19 @@
         public string identifier { get; set; }
     }
 
+    public class DataMedia
+    {
+        public string urlFile { get; set; }
+        public object caption { get; set; }
+        public string mimetype { get; set; }
+        public string type { get; set; }
+        public string filename { get; set; }
+        public bool isGif { get; set; }
+        public string duration { get; set; }
+        public object base64Thumb { get; set; }
+    }
+
+
     public class Contact
     {
         public string id { get; set; }
@@ -63,7 +76,7 @@
         public int? origen { get; set; }
         public int? typeMessage { get; set; }
         public int? statusMessage { get; set; }
-        public object dataMedia { get; set; }
+        public DataMedia dataMedia { get; set; }
         public object dataLocation { get; set; }
         public List<object> dataVcard { get; set; }
     }
@@ -85,8 +98,8 @@
         public Contact contact { get; set; }
         public Channel channel { get; set; }
         public LastMessage lastMessage { get; set; }
-        public CurrentSector currentSector { get; set; }
-        public CurrentUser currentUser { get; set; }
+        public CurrentSector? currentSector { get; set; }
+        public CurrentUser? currentUser { get; set; }
         public FinalizadoPor finalizadoPor { get; set; }
         public List<Message> messages { get; set; }
 

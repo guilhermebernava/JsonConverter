@@ -1,3 +1,3 @@
 ﻿using JsonConverter.Services;
 
-await FilesServices.ReadDirectoriesAndSaveConvertedFiles("C:\\Users\\guilh\\Documents\\Projects\\JsonConverter\\JsonConverter\\JSONs\\5511982942188\\", "C:\\Users\\guilh\\Documents\\Projects\\JsonConverter\\JsonConverter\\Files\\5511982942188\\");
+await FilesServices.ReadDirectoriesAndSaveConvertedFiles("C:\\Users\\guilh\\Downloads\\5511948351211\\", "C:\\Users\\guilh\\Downloads\\Files\\5511948351211\\");

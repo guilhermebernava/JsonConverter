@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2n/608DBC0Lu6bWo7lt51jeHVBwh9V6epiyHhPI33y+7TAMDhR9SpUkJGVvDsknJrKLqj2h3OJukhHKrzvY/Mg==",
+  "dgSpecHash": "agzcg8DwKVeyVSR6wocAzvYvC6XCVS1ZwopjxESHOABHAO2GysjL0tTWzLIGVxCJSZp7oFJ+wgZ4sQ8fCruJMQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\guilh\\Documents\\Projects\\Test\\Test\\JsonConverter.csproj",
+  "projectFilePath": "C:\\Users\\guilh\\OneDrive\\Documentos\\Projects\\JsonConverter\\Test\\JsonConverter.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
